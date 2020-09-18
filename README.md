@@ -1,4 +1,4 @@
-# six-sities
+# Six-Cities
 
 <img src="https://github.com/daniel-mironenko/six-sities/blob/master/markup/img/six-sities-promo.png" width="550">
 
